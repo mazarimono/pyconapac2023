@@ -6,6 +6,12 @@
 
 2023/10/28 13:55 - 14:10
 
+## プレゼン資料
+
+![プレゼン資料img](img/presentation-pyconapac2023.png)
+
+- [speakerdeck](https://speakerdeck.com/hideyuki_ogawa/digital-transformationwopythonwoshi-tutejin-meyou)
+
 ## data
 
 ### data/all_data.csv 
@@ -15,3 +21,11 @@
 - [札幌市内の気象観測記録](https://ckan.pf-sapporo.jp/dataset/sapporo_weather): CC by 4.0
 - [地下鉄改札による上社員データ](https://ckan.pf-sapporo.jp/dataset/tikatetu_jyousyajinnin): CC by 4.0
 - [札幌地下街人流データ](https://ckan.pf-sapporo.jp/dataset/sapporotikagaijinryuude-ta): CC by 4.0
+
+## notebook
+
+- panelを使ったインタラクティブな可視化: [Google Colab](https://colab.research.google.com/github/mazarimono/pyconapac2023/blob/main/panel_watch.ipynb)
+- lightGBMを使ったモデル作成: [Google Colab](https://colab.research.google.com/github/mazarimono/pyconapac2023/blob/main/model.ipynb)
+
+## 概要
+
